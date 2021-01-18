@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "ES5",
+    "outDir": "./lib",
+    "declarationDir": "./lib",
+    "declaration": true,
+    "baseUrl": ".",
+    "lib": ["ES6"],
+
+    "esModuleInterop": true,
+    "noImplicitAny": true,
+    "alwaysStrict": true
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules"]
+}
