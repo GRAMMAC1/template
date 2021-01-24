@@ -5,7 +5,7 @@
   "repository": "git@github.com:GRAMMAC1/template.git",
   "author": "GRAMMAC <GRAMMAC@163.com>",
   "license": "MIT",
-  "keywords": "template typescript",
+  "keywords": ["template", "typescript"],
   "description": "玩具，写着玩的~",
   "scripts": {
     "dev": "tsc --watch",
